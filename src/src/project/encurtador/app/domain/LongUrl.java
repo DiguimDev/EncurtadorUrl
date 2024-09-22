@@ -1,4 +1,4 @@
-package java.encurtador.app.domain;
+package project.encurtador.app.domain;
 
 import java.util.Objects;
 
