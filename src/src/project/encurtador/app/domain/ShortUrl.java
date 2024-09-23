@@ -6,6 +6,12 @@ public class ShortUrl {
         this.shortUrl = shortUrl;
     }
 
+    @Override
+    public String toString() {
+        return
+                "Url Transformada: " + shortUrl + "\n";
+    }
+
     public String getShortUrl() {
         return shortUrl;
     }
